@@ -1,7 +1,7 @@
 <?php
 
 if (!isset($argv[1])) {
-    echo 'Usage: `php bookscan-unzipper.php /path/to/zips_dir`', PHP_EOL;
+    echo 'Usage: `php bookscan-unzip.php /path/to/zips_dir`', PHP_EOL;
     exit(1);
 }
 

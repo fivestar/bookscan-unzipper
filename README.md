@@ -1,13 +1,13 @@
 # bookscan-unzipper
 
-Unzip Bookscan jpeg-tuned files.
+Unzip BOOKSCAN jpeg-tuned zip files prettily.
 
 ## 使い方
 
 ダウンロードしたZIPファイルを適当なディレクトリに入れ、次のコマンドを実行します:
 
 ```
-% php bookscan-unzipper.php /path/to/zips_dir
+% php bookscan-unzip.php /path/to/zips_dir
 ```
 
 ## サポートするファイル名
